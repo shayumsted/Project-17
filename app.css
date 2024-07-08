@@ -1,0 +1,17 @@
+/* src/App.css */
+.App {
+    text-align: center;}
+  
+  .App-header {
+    background-color: #584a61;
+    padding: 20px;
+    color: white;}
+  
+  main {
+    margin: 20px;}
+  
+  footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #584a61;
+    color: white;}

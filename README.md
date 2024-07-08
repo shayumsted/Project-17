@@ -1,1 +1,2 @@
-# Project-17
+// U78784426
+A new React project that will work to displya different tasks and formats of motivational text snippits that will help inspire users that need workws of encouragement while trying to manage work. The app will incorporate reusable messages with styling tchniques for design and appeal. 

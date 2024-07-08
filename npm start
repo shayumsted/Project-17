@@ -1,0 +1,2 @@
+npx create-react-app task-manager-app
+cd task-manager-app
